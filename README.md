@@ -18,6 +18,7 @@ A Conditional Structure-Aware Generative Transformer for Multi-Objective Design 
 ### RNA Grammar Variational Autoencoder
 Combining Stochastic Context Free Grammar (SCFG) with Variational Autoencoder for generating and optimizing RNA sequences.
 [github.com/nzarnaghinaghsh/RGVAE](https://github.com/nzarnaghinaghsh/RGVAE)
+
 [https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag298/8868968?utm_source=authortollfreelink&utm_campaign=bioinformaticsadvances&utm_medium=email](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag298/8868968?utm_source=authortollfreelink&utm_campaign=bioinformaticsadvances&utm_medium=email)
 
 ### Predictive Scheduling for Virtual Reality
