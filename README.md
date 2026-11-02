@@ -28,7 +28,8 @@ Combining Stochastic Context Free Grammar (SCFG) with Variational Autoencoder fo
 ### Predictive Scheduling for Virtual Reality
 Delivering high quality-of-experience, over wire-
 less networks with limited bandwidth for virtual reality (VR) applications.
-[Published paper:](https://arxiv.org/pdf/1912.12672)
+
+[Published paper](https://arxiv.org/pdf/1912.12672)
 
 
 
