@@ -13,12 +13,14 @@ A Generative model for mRNA design
 
 ### mUTR-Construct
 A Conditional Structure-Aware Generative Transformer for Multi-Objective Design of m1Ψ-Modified 5’ UTRs
+
 [Code](https://github.com/nzarnaghinaghsh/mUTR-Construct)
 
 [Submitted paper](https://arxiv.org/abs/2608.21696)
 
 ### RNA Grammar Variational Autoencoder
 Combining Stochastic Context Free Grammar (SCFG) with Variational Autoencoder for generating and optimizing RNA sequences.
+
 [Code](https://github.com/nzarnaghinaghsh/RGVAE)
 
 [Published paper](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbag298/8868968?utm_source=authortollfreelink&utm_campaign=bioinformaticsadvances&utm_medium=email)
