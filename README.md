@@ -29,8 +29,8 @@ less networks with limited bandwidth for virtual reality (VR) applications.
 ## Publications
 https://scholar.google.com/citations?user=o_eDff8AAAAJ&hl=en
 
-## Résumé
-[Download my résumé](resume.pdf)
+## Resume
+[Download my resume](resume.pdf)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/narges-z-768b5a6b/)
