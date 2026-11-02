@@ -33,5 +33,5 @@ https://scholar.google.com/citations?user=o_eDff8AAAAJ&hl=en
 [Download my résumé](resume.pdf)
 
 ## Contact
-- [LinkedIn]([PASTE_LINKEDIN_URL](https://www.linkedin.com/in/narges-z-768b5a6b/)
+- [LinkedIn](https://www.linkedin.com/in/narges-z-768b5a6b/)
 - Email: nzarnaghi@tamu.edu
